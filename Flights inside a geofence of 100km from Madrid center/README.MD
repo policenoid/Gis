@@ -38,8 +38,8 @@ max_lon = -2.5205
 
 Clone or download this repository:
 
-git clone https://github.com/policenoid/tabular.git
-cd tabular
+git clone https://github.com/policenoid/gis.git
+cd gis
 
 
 Install Python dependencies:
